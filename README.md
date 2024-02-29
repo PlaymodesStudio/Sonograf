@@ -1,12 +1,13 @@
 SONÒGRAF DIY MATERIALS
 https://www.playmodes.com/home/sonograf/
 
+![final_setup](https://github.com/PlaymodesStudio/Sonograf/assets/17783713/58bbe833-224b-4183-9763-bf0adfadfd65)
+
 This is a compilation of software, materials list, 3d print files, CNC designs and instructions for you to build your own Sonògraf.
 
-Please be aware that the software (a Raspberry PI 4 image file) is complete and fully working, as this constitutes the fundamental element of the Sonògraf instrument. Please reffer to the “image_build” text for a guidance to unfold this image into a Raspberry Pi 4.
-
+Please be aware that the software (a Raspberry PI 4 image file) is complete and fully working, as this constitutes the fundamental element of the Sonògraf instrument.
 The source codes for the software components is provided, if you feel brave enough to analyze, make sense of the package and make your custom modifications.
-Please find the software elements of the Sonògraf here: https://github.com/PlaymodesStudio/Sonograf_Software
+Please find the software elements of the Sonògraf, including a release featuring a ready-to-burn Raspberry Pi .img file here: https://github.com/PlaymodesStudio/Sonograf_Software
 
 
 The 3D prints and CNC files are provided as a mere starting point for your own project, and shouldn’t be taken as fabrication-ready:
