@@ -1,0 +1,1 @@
+Sonògraf © 2022 by Playmodes Studio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International
