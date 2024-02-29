@@ -1,6 +1,8 @@
 SONÒGRAF DIY MATERIALS
 https://www.playmodes.com/home/sonograf/
 
+Sonògraf © 2022 by Playmodes Studio is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
+
 ![final_setup](https://github.com/PlaymodesStudio/Sonograf/assets/17783713/58bbe833-224b-4183-9763-bf0adfadfd65)
 
 This is a compilation of software, materials list, 3d print files, CNC designs and instructions for you to build your own Sonògraf.
